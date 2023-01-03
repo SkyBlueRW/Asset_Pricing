@@ -1,2 +1,2 @@
-# Asset_Pricing
+# Asset Pricing
 Asset pricing learning and research
